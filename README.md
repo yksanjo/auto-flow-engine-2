@@ -1,5 +1,12 @@
 # auto-flow-engine-2
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/auto-flow-engine-2/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/auto-flow-engine-2/actions)
+![License](https://img.shields.io/github/license/yksanjo/auto-flow-engine-2)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/auto-flow-engine-2)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/auto-flow-engine-2)
+
 ## Detailed Description
 
 auto-flow-engine-2 is maintained as an industry-grade software project with production-ready engineering practices.  
